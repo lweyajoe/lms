@@ -1,0 +1,90 @@
+Array
+(
+    [Body] => Array
+        (
+            [stkCallback] => Array
+                (
+                    [MerchantRequestID] => 3124-481d-b706-10bdd6fbc8e2760161
+                    [CheckoutRequestID] => ws_CO_30092024175034863708374149
+                    [ResultCode] => 2001
+                    [ResultDesc] => The initiator information is invalid.
+                )
+
+        )
+
+)
+Array
+(
+    [Body] => Array
+        (
+            [stkCallback] => Array
+                (
+                    [MerchantRequestID] => 8ed5-4489-a67f-881890b925f2762525
+                    [CheckoutRequestID] => ws_CO_30092024175120832708374149
+                    [ResultCode] => 2001
+                    [ResultDesc] => The initiator information is invalid.
+                )
+
+        )
+
+)
+Array
+(
+    [Body] => Array
+        (
+            [stkCallback] => Array
+                (
+                    [MerchantRequestID] => dad6-4c34-8787-c8cb963a496d128907
+                    [CheckoutRequestID] => ws_CO_30092024181629546708374149
+                    [ResultCode] => 2001
+                    [ResultDesc] => The initiator information is invalid.
+                )
+
+        )
+
+)
+Array
+(
+    [Body] => Array
+        (
+            [stkCallback] => Array
+                (
+                    [MerchantRequestID] => 3124-481d-b706-10bdd6fbc8e2760986
+                    [CheckoutRequestID] => ws_CO_30092024190105312717158091
+                    [ResultCode] => 1032
+                    [ResultDesc] => Request cancelled by user
+                )
+
+        )
+
+)
+Array
+(
+    [Body] => Array
+        (
+            [stkCallback] => Array
+                (
+                    [MerchantRequestID] => 8ed5-4489-a67f-881890b925f2763410
+                    [CheckoutRequestID] => ws_CO_30092024190214489717158091
+                    [ResultCode] => 1032
+                    [ResultDesc] => Request cancelled by user
+                )
+
+        )
+
+)
+Array
+(
+    [Body] => Array
+        (
+            [stkCallback] => Array
+                (
+                    [MerchantRequestID] => 3124-481d-b706-10bdd6fbc8e2903644
+                    [CheckoutRequestID] => ws_CO_06102024190549700717158091
+                    [ResultCode] => 1037
+                    [ResultDesc] => DS timeout user cannot be reached
+                )
+
+        )
+
+)
